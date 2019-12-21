@@ -1,0 +1,18 @@
+Master Resume :- is for ourself. Detailled description of the work and projects done till now.
+    No restriction on pages/ No formatting required.
+1.Contact Info.
+2.Summary
+3.Additional Projects
+4.Education/Test Scores.
+5.Certifications.
+6.Awards/Achievemnets.
+7.Other activities.
+
+
+Resume :-
+    Summary :   Not excceed 2-3 lines.
+                Should not have what you want to be.
+                should not contain "Will add value to esteemed organization".
+                Should conatain info about you, your achievment, and Key milestones. 
+
+    Ambitous Software Engineer with 2.5 years of experiance in Banking Industry.
