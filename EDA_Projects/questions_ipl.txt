@@ -1,0 +1,21 @@
+Problem statement : Which can be best decesion to while you win the toss.(Considering other conditions based on previous data).
+
+1. Number of different teams participated in ipl ?
+2. which are top 10 cities where maximum number of matches are played ?
+3. How many matches played in each seasons of IPL ?
+4. What has been the major decesion when toss is won ?
+5. Which have been top teams who have won the toss maximum number of times ?
+6. What are the top 5 venues where matches have been played ?
+7. Top 3 teams which have won maximum matches ?
+8. How many matches have been no_result or draw?
+8. How many matches have been won_by_run and won_by_wickets ?
+9. Umpires who have done umpriring maximum number of times ?
+10. Which team has played maximum matches ?
+
+
+Bi variate
+1. What is winning percentage of each team?
+2. What has been the choices of winning the match after winning the toss?
+3. Whcich team have had the home advandage the most?
+4. 
+
